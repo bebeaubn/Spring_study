@@ -1,19 +1,15 @@
-package exam02.main;
+package exam03.main;
 
-import exam01.config.AppCtx3;
-import exam01.config.Appctx2;
-import exam02.models.member.InfoService;
-import exam02.models.member.JoinService;
-import exam02.models.member.Member;
+import exam03.models.member.*;
+import exam03.config.*;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
 
 public class Ex01 {
     public static void main(String[] args) {
-        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(AppCtx3.class);
+        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(Appctx1.class);
 
-        JoinService joinService = ctx.getBean("joinService", JoinService.class);
-        InfoService infoService = ctx.getBean("infoService", InfoService.class);
+        JoinService joinService = ctx.getBean(JoinService.class);
+        InfoService infoService = ctx.getBean(InfoService.class);
 
         Member member = Member.builder()
                 .userId("user01")
@@ -28,5 +24,6 @@ public class Ex01 {
         infoService.print();
 
         ctx.close();
+
     }
 }
