@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aebb5388-b0ca-4b0e-b796-0ede2a398278" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/ImplCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/ProxyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/RecCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/aopex/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/aopex/RecCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/config/ProxyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/config/AppCtx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/config/AppCtx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/config/Appctx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/config/Appctx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/main/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/main/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/InfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/InfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/JoinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/JoinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/JoinValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/JoinValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/main/java/exam03/models/member/Member.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XHrOfZkDK9Tbi5NNsMZci2EXvc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "User1",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/금예빈/6.서버프로그램 통합/Spring_study/day04/src/main/java/exam02/aopex"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exam01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\금예빈\6.서버프로그램 통합\Spring_study\day04\src\main\java\exam02\aopex" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam01.Ex01" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Ex01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="aebb5388-b0ca-4b0e-b796-0ede2a398278" name="변경" comment="" />
+      <created>1698296815533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698296815533</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -12,7 +12,11 @@ public class Appctx1 {
     public MemberDao memberDao() {
         return new MemberDao();
     }
+
+    /*
     public  MemberDao memberDao2(){
         return new MemberDao();
+
+     */
     }
-}
+

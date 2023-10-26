@@ -6,6 +6,9 @@ import exam03.models.member.JoinValidator;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.time.format.DateTimeFormatter;
+import java.util.Formatter;
+
 @Configuration
 public class AppCtx2 {
     @Bean
@@ -13,13 +16,20 @@ public class AppCtx2 {
         return new JoinValidator();
     }
     @Bean
-public JoinService joinService(){
+    public JoinService joinService(){
         return new JoinService();
 }
-@Bean
-public InfoService infoService(){
+    @Bean
+    public InfoService infoService(){
         return new InfoService();
 }
+
+    @Bean
+    public DateTimeFormatter formatter(){
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy.MM.dd. HH:mm");
+
+        return formatter;
+    }
 
 
 }
